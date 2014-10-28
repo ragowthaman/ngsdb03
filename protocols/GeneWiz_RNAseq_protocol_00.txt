@@ -1,0 +1,34 @@
+From: Chris Mozdzierz, GW/US [mailto:Chris.Mozdzierz@genewiz.com] On Behalf Of GENEWIZ Next Generation Sequencing Services
+Sent: Wednesday, October 01, 2014 6:48 AM
+To: Pedro Alcolea
+Cc: Bryan Dvorak, GW/US
+Subject: RE: invoice and other issues
+ 
+Hi Pedro,
+ 
+I hope you are doing well.  I’m happy to help answer your questions about how we performed your project.  Please see our description below:
+ 
+
+
+Briefly, RNA was normalized according to the Excel file above.  To prepare the
+libraries, GENEWIZ used the NEBNext Ultra RNA Library Preparation Kit according
+to the Manufacturer’s instructions.  Final individual libraries were run on the
+Agilent 2100 Bioanalyzer to check insert size and quality according to the
+Manufacturer’s instructions.  Next, individual libraries were re-quantitated
+using Qubit according to Manufacturer’s instructions and pooled accordingly. 
+Lastly, the final pool was re-quantitated using qPCR following KAPA SYBR Fast
+Universal qPCR kit according to Manufacturer’s instructions.  The final pool was
+clustered on the flowcell and sequenced on the Illumina HiSeq2500 machine in the
+2x50bp PE Rapid Run Mode according to Manufacturer’s instructions.
+
+Please let us know if you have any additional questions.  Thank you and have a
+great day.
+
+Best Regards,
+
+Chris Mozdzierz, Ph.D. Technical Application Scientist – Next-Generation
+Sequencing
+
+GENEWIZ, Inc. 115 Corporate Blvd. South Plainfield, NJ 07080 908-222-0711 ext.
+3352 908-333-4511 (fax) chris.mozdzierz@genewiz.com ngs@genewiz.com
+www.genewiz.com
