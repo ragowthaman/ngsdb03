@@ -1,0 +1,5 @@
+"hyp_vs_hx"	"xan_vs_hx"	"ns_vs_hx"	"xan_vs_hyp"	"ns_vs_hyp"	"xan_vs_ns"
+"A"	-1	-1	-1	0	0	0
+"B"	1	0	0	-1	-1	0
+"C"	0	1	0	1	0	1
+"D"	0	0	1	0	1	-1
